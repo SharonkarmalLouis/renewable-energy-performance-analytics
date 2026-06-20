@@ -2,43 +2,77 @@
 
 ## Project Overview
 
-This project simulates a real-world analytics solution for a renewable energy company.
+This project analyzes renewable energy site and asset performance using BigQuery, SQL, and Power BI.
 
-The objective is to analyse energy generation performance, asset efficiency, maintenance activities, weather impacts, and revenue opportunities using BigQuery and Power BI.
+The goal was to identify top-performing sites, evaluate asset efficiency against expected generation, and estimate revenue based on market electricity prices.
 
-The project demonstrates end-to-end data analytics skills including data modelling, SQL development, KPI design, business intelligence reporting, and insight generation.
-
-## Tools & Technologies
+## Tools Used
 
 - Google BigQuery
 - SQL
 - Power BI
 - GitHub
-- Data Modelling
-- DAX
-- CSV Data Sources
 
-## Project Status
+## Dataset
 
-🚧 In Development
-## Dataset Overview
+The project uses simulated renewable energy operational data including:
 
-The project uses simulated renewable energy operational data covering:
+- Sites
+- Assets
+- Energy Generation
+- Market Prices
+- Maintenance Events
+- Weather Data
 
-- 5 renewable energy sites
-- Wind and solar technologies
-- Asset-level generation data
-- Weather observations
-- Electricity market prices
-- Maintenance records
+## Business Questions
 
-### Tables
+- Which sites generate the most energy?
+- Which sites generate the most revenue?
+- Which assets perform best against expected generation?
+- How does installed capacity vary across sites?
 
-| Table | Description |
-|---------|-------------|
-| sites | Renewable energy site information |
-| assets | Individual assets operating at each site |
-| energy_generation | Daily energy production records |
-| weather_data | Daily weather conditions |
-| market_prices | Regional electricity prices |
-| maintenance_events | Asset maintenance history |
+## SQL Analysis
+
+### Site Asset Analysis
+
+- Counted assets by site
+- Calculated installed capacity by site
+
+### Generation Performance Analysis
+
+- Actual vs expected generation
+- Asset performance ranking
+- Site performance benchmarking
+
+### Revenue Analysis
+
+- Estimated revenue by site
+- Revenue ranking using window functions
+
+## Power BI Dashboard
+
+![Dashboard](powerbi/dashboard_screenshots/dashboard_overview.png)
+
+## Key Insights
+
+- Total installed capacity: 555 MW
+- Total assets: 44
+- Estimated revenue: £569.95M
+- Average asset performance: 95.52%
+- Site S003 generated the highest estimated revenue
+
+## Repository Structure
+
+```text
+data/
+├── raw/
+└── cleaned/
+
+sql/
+docs/
+powerbi/
+```
+
+## Author
+
+Sharon Karmal Louis
