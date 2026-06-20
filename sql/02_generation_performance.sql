@@ -7,7 +7,6 @@ FROM `renewable-energy-analytics.renewable_energy.energy_generation`
 GROUP BY site_id
 ORDER BY total_energy_generated_mwh DESC;
 
-
 -- Actual vs Expected Generation Performance
 SELECT
     site_id,
