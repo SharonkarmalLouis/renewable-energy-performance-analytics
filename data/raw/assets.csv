@@ -1,0 +1,45 @@
+asset_id,site_id,asset_name,asset_type,capacity_mw,manufacturer,installation_date,status
+A00101,S001,Highland Wind Farm Asset 01,Wind Turbine,15.0,Vestas,2018-06-21,Operational
+A00102,S001,Highland Wind Farm Asset 02,Wind Turbine,15.0,Siemens Gamesa,2018-08-11,Operational
+A00103,S001,Highland Wind Farm Asset 03,Wind Turbine,15.0,Vestas,2018-12-05,Operational
+A00104,S001,Highland Wind Farm Asset 04,Wind Turbine,15.0,Canadian Solar,2018-07-07,Operational
+A00105,S001,Highland Wind Farm Asset 05,Wind Turbine,15.0,Vestas,2018-06-22,Operational
+A00106,S001,Highland Wind Farm Asset 06,Wind Turbine,15.0,Siemens Gamesa,2018-10-22,Operational
+A00107,S001,Highland Wind Farm Asset 07,Wind Turbine,15.0,Canadian Solar,2018-08-04,Operational
+A00108,S001,Highland Wind Farm Asset 08,Wind Turbine,15.0,Canadian Solar,2018-09-30,Operational
+A00201,S002,Fife Solar Park Asset 01,Solar Panel Group,8.0,Canadian Solar,2020-06-20,Operational
+A00202,S002,Fife Solar Park Asset 02,Solar Panel Group,8.0,Vestas,2020-05-20,Operational
+A00203,S002,Fife Solar Park Asset 03,Solar Panel Group,8.0,GE Renewable,2020-06-20,Operational
+A00204,S002,Fife Solar Park Asset 04,Solar Panel Group,8.0,GE Renewable,2020-05-06,Operational
+A00205,S002,Fife Solar Park Asset 05,Solar Panel Group,8.0,Vestas,2020-07-10,Operational
+A00206,S002,Fife Solar Park Asset 06,Solar Panel Group,8.0,Canadian Solar,2020-06-16,Operational
+A00207,S002,Fife Solar Park Asset 07,Solar Panel Group,8.0,First Solar,2020-08-25,Operational
+A00208,S002,Fife Solar Park Asset 08,Solar Panel Group,8.0,First Solar,2020-04-30,Operational
+A00209,S002,Fife Solar Park Asset 09,Solar Panel Group,8.0,Canadian Solar,2020-07-11,Operational
+A00210,S002,Fife Solar Park Asset 10,Solar Panel Group,8.0,Vestas,2020-04-21,Operational
+A00301,S003,North Sea Wind Hub Asset 01,Wind Turbine,18.75,GE Renewable,2019-10-10,Maintenance
+A00302,S003,North Sea Wind Hub Asset 02,Wind Turbine,18.75,Vestas,2019-12-26,Operational
+A00303,S003,North Sea Wind Hub Asset 03,Wind Turbine,18.75,GE Renewable,2019-10-31,Operational
+A00304,S003,North Sea Wind Hub Asset 04,Wind Turbine,18.75,Siemens Gamesa,2020-03-09,Operational
+A00305,S003,North Sea Wind Hub Asset 05,Wind Turbine,18.75,Vestas,2020-02-22,Operational
+A00306,S003,North Sea Wind Hub Asset 06,Wind Turbine,18.75,Canadian Solar,2019-11-21,Operational
+A00307,S003,North Sea Wind Hub Asset 07,Wind Turbine,18.75,First Solar,2019-11-28,Offline
+A00308,S003,North Sea Wind Hub Asset 08,Wind Turbine,18.75,Canadian Solar,2019-11-15,Operational
+A00401,S004,Yorkshire Solar Estate Asset 01,Solar Panel Group,9.5,Vestas,2021-05-02,Operational
+A00402,S004,Yorkshire Solar Estate Asset 02,Solar Panel Group,9.5,GE Renewable,2021-06-15,Operational
+A00403,S004,Yorkshire Solar Estate Asset 03,Solar Panel Group,9.5,Siemens Gamesa,2021-07-28,Maintenance
+A00404,S004,Yorkshire Solar Estate Asset 04,Solar Panel Group,9.5,GE Renewable,2021-04-28,Operational
+A00405,S004,Yorkshire Solar Estate Asset 05,Solar Panel Group,9.5,First Solar,2021-08-16,Operational
+A00406,S004,Yorkshire Solar Estate Asset 06,Solar Panel Group,9.5,GE Renewable,2021-04-09,Operational
+A00407,S004,Yorkshire Solar Estate Asset 07,Solar Panel Group,9.5,Canadian Solar,2021-07-20,Operational
+A00408,S004,Yorkshire Solar Estate Asset 08,Solar Panel Group,9.5,Canadian Solar,2021-06-22,Maintenance
+A00409,S004,Yorkshire Solar Estate Asset 09,Solar Panel Group,9.5,First Solar,2021-06-05,Operational
+A00410,S004,Yorkshire Solar Estate Asset 10,Solar Panel Group,9.5,Siemens Gamesa,2021-07-13,Operational
+A00501,S005,Welsh Valley Wind Farm Asset 01,Wind Turbine,13.75,Vestas,2017-12-10,Operational
+A00502,S005,Welsh Valley Wind Farm Asset 02,Wind Turbine,13.75,Siemens Gamesa,2018-05-05,Operational
+A00503,S005,Welsh Valley Wind Farm Asset 03,Wind Turbine,13.75,Vestas,2018-02-18,Operational
+A00504,S005,Welsh Valley Wind Farm Asset 04,Wind Turbine,13.75,First Solar,2018-03-27,Operational
+A00505,S005,Welsh Valley Wind Farm Asset 05,Wind Turbine,13.75,Canadian Solar,2017-11-14,Operational
+A00506,S005,Welsh Valley Wind Farm Asset 06,Wind Turbine,13.75,Vestas,2018-05-05,Maintenance
+A00507,S005,Welsh Valley Wind Farm Asset 07,Wind Turbine,13.75,GE Renewable,2018-04-25,Operational
+A00508,S005,Welsh Valley Wind Farm Asset 08,Wind Turbine,13.75,GE Renewable,2018-03-03,Operational

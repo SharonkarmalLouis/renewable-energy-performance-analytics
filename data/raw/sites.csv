@@ -1,0 +1,6 @@
+site_id,site_name,region,country,technology,installed_capacity_mw,commissioning_date
+S001,Highland Wind Farm,Scotland,United Kingdom,Wind,120.0,2018-06-15
+S002,Fife Solar Park,Scotland,United Kingdom,Solar,80.0,2020-04-10
+S003,North Sea Wind Hub,England,United Kingdom,Wind,150.0,2019-09-20
+S004,Yorkshire Solar Estate,England,United Kingdom,Solar,95.0,2021-03-05
+S005,Welsh Valley Wind Farm,Wales,United Kingdom,Wind,110.0,2017-11-12
