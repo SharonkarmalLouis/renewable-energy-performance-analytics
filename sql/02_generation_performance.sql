@@ -1,5 +1,4 @@
 -- Total Energy Generation by Site
-
 SELECT
     site_id,
     ROUND(SUM(energy_mwh), 2) AS total_energy_generated_mwh,
