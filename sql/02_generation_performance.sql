@@ -36,7 +36,6 @@ SELECT
 FROM `renewable-energy-analytics.renewable_energy.energy_generation`
 GROUP BY asset_id
 ORDER BY performance_rank;
-
 -- Query 4: Top 10 Performing Assets
 SELECT
     asset_id,
