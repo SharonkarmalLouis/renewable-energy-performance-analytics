@@ -7,6 +7,20 @@ This project simulates a real-world analytics solution for a renewable energy co
 The objective is to analyse energy generation performance, asset efficiency, maintenance activities, weather impacts, and revenue opportunities using BigQuery and Power BI.
 
 The project demonstrates end-to-end data analytics skills including data modelling, SQL development, KPI design, business intelligence reporting, and insight generation.
+
+## Tools & Technologies
+
+- Google BigQuery
+- SQL
+- Power BI
+- GitHub
+- Data Modelling
+- DAX
+- CSV Data Sources
+
+## Project Status
+
+🚧 In Development
 ## Dataset Overview
 
 The project uses simulated renewable energy operational data covering:
